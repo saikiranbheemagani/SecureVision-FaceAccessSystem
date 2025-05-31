@@ -80,7 +80,7 @@ This system simulates the process of securing access to restricted zones such as
 1. **Clone the repository**
 
 bash
-git clone https://github.com/Rishikiran98/DynamicHumanAuth.git
+git clone https://github.com/saikiranbheemagani/SecureVision-FaceAccessSystem.git
 cd DynamicHumanAuth
 
 Install dependencies
@@ -168,7 +168,7 @@ Cloud-based face recognition using REST APIs.
 Integrate with attendance systems.
 
 🙋‍♂️ Author
-This project was developed by Sai Rishi Kiran Mannava, as part of an academic initiative to demonstrate the application of computer vision in real-time security systems.
+This project was developed by Sai Kiran Bheemagani, as part of an academic initiative to demonstrate the application of computer vision in real-time security systems.
 
 GitHub Profile →
 
